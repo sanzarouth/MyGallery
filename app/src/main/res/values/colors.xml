@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/darkCreme</color>
+    <color name="colorPrimaryDark">@color/creme</color>
+    <color name="colorAccent">@color/darkBrown</color>
+
+    <color name="darkBrown">#6B4C51</color>
+    <color name="darkCreme">#EEE4E0</color>
+    <color name="creme">#F8F4F4</color>
+    <color name="lightBrown">#A1796F</color>
+    <color name="beige">#D0B5AE</color>
+</resources>
